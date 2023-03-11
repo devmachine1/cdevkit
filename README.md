@@ -11,3 +11,5 @@ cdevkit is a barebones development enviroment which you can configure to your li
 * [Neovim (Editor)](http://neovim.io/)
 
 I strongly recommend to checkout these softwares and what they do. If you are totally unaware of cmder and/or neovim, read the documentation in their specific websites. I recommend [SpaceVim](https://spacevim.org/) as the neovim config as it is easy to install and easy to use. 
+
+You can download it in the releases tab.
